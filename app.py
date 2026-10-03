@@ -1,4 +1,5 @@
 import streamlit as st
+st.image("IMG_1823.png")
 
 # Cấu hình trang
 st.set_page_config(
